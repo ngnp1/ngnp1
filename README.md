@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ngnp1/ngnp1/blob/aca983772ae8c52d082582dc0d948619a544aba9/generated-image.png" height="300" />
+  <img src="https://github.com/ngnp1/ngnp1/blob/2dd252eb92f9c9858e99b6a31604c4dec2dc1231/generated-image(1).png" />
 </div>
 
 <p align="center">Thanks for reading my profile. I'm Phu, a second-year Bachelor's student in Aalto University specializing in Data Science.</p>
