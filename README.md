@@ -23,9 +23,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 </div>
-
-
-<h2 align="center"> ~ Contact me ~
-<div align="center">
-  <a href="https://linkedin.com/in/nnp1111"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-</div>
