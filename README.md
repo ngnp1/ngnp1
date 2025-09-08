@@ -2,7 +2,7 @@
   <img src="https://github.com/ngnp1/ngnp1/blob/2dd252eb92f9c9858e99b6a31604c4dec2dc1231/generated-image(1).png" />
 </div>
 
-<p align="center">Thanks for reading my profile. I'm Phu, a second-year Bachelor's student in Aalto University specializing in Data Science.</p>
+<p align="center">Thanks for reading my profile. I'm a second-year Bachelor's student in Aalto University specializing in Data Science.</p>
 
 
 <h2 align="center">~ Technologies I use ~</h2>
@@ -28,11 +28,4 @@
 <h2 align="center"> ~ Contact me ~
 <div align="center">
   <a href="https://linkedin.com/in/nnp1111"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-<h2 align="center"> ~ Some stats ~
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngnp1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngnp1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
