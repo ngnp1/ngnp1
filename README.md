@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">~ About me ~</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">Technologies I use</h2>
+<h2 align="center">~ Technologies I use ~</h2>
 
 ###
 
@@ -36,6 +36,7 @@
 
 ###
 
+<h2 align="center"> ~ Contact me ~
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
